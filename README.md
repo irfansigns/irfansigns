@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**irfansigns/irfansigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with @prograsec as senior MERN/Laravel developer
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: irfansigns@gmail.com
 - 😄 Pronouns: irfansigns
 - ⚡ Fun fact: Nothing is impossible, you just need a strong determination.
--->
+
